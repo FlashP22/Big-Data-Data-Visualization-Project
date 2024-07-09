@@ -2,7 +2,8 @@
 
 ## Dataset Name: Patient Dataset
 ## Source: Kaggle
-## Description: The dataset provides a detailed breakdown of healthcare services provided in a hospital, including inpatient, outpatient and day case procedures, medical specialties, and patient demographics. ## The data includes the following information:
+## Description: The dataset provides a detailed breakdown of healthcare services provided in a hospital, including inpatient, outpatient and day case procedures, medical specialties, and patient demographics. 
+## The data includes the following information:
 Medical Specialties: Specialty HIPE, Specialty Name, Case Type
 Patient Demographics: Adult/Child, Age Profile, Time Bands
 Procedure Details: Total, Purchase Date, Return Status, Warranty (Months)
